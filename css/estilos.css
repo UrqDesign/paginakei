@@ -456,7 +456,7 @@ video{
     padding: 2rem;
 }
 
-.informacion-contacto h3, .informacion-contacto p, .redes-sociales i{
+.informacion-contacto h3, .informacion-contacto p, .redes-sociales i, .wp{
     color: var(--kei-blanco);
 }
 .informacion-contacto h3{
@@ -472,7 +472,7 @@ video{
     margin-right: 1rem;
 }
 
-.redes-sociales{
+.redes-sociales, .wp{
     font-size: 3rem;
 }
 
@@ -553,4 +553,7 @@ video{
     color: var(--kei-azuloscuro);
     padding: 2rem;
     font-size: 2rem;
+}
+.wp {
+    font-size: 6rem;
 }
